@@ -44,15 +44,6 @@
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamRayapudi&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamRayapudi&layout=compact&theme=github_dark" height="160"/>
-</p>
-
----
-
 💡 **Featured Projects**
 
 - [Project 1 Name](https://github.com/GautamRayapudi/project1)  
